@@ -13,7 +13,7 @@
       src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="https://mraddict.one" target="_blank">
+  <a href="https://josenovillo.netlify.app/" target="_blank">
     <img
       height="35"
       alt="microsoft-outlook logo"
