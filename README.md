@@ -29,7 +29,7 @@
 <hr>
  
 <pre>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" />
+<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" />
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
