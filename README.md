@@ -46,7 +46,7 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Josenov"><img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
+    <a href="https://github.com/Josenov"><img alt="JavaScript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></a>
     <a href="https://github.com/Josenov"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
