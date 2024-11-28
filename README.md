@@ -6,7 +6,7 @@
       src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="mailto:MR-Addict@qq.com" target="_blank">
+  <a href="mailto:josenovillo88@gmail.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
