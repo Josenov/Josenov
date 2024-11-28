@@ -6,14 +6,14 @@
       src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="mailto:josenovillo88@gmail.com" target="blank">
+  <a href="mailto:josenovillo88@gmail.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
       src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="https://josenovillo.netlify.app/" target="blank">
+  <a href="https://josenovillo.netlify.app/" target="_blank">
     <img
       height="35"
       alt="microsoft-outlook logo"
