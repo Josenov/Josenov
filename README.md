@@ -3,21 +3,21 @@
     <img
       height="35"
       alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
   <a href="mailto:MR-Addict@qq.com" target="_blank">
     <img
       height="35"
       alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
   <a href="https://mraddict.one" target="_blank">
     <img
       height="35"
       alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
 </div>
@@ -30,14 +30,14 @@
  
 <pre>
 <img align="right" alt="GIF" height="250px" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/media/b3fc29dc60db7150feb98869c1e06bb0.gif" />
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+💻 Lorem
+📚 Lorem
+📝 Lorem
+🔭 Lorem
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
+🤔 I’m currently open for: 
 </pre>
 <hr>
 
