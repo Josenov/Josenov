@@ -29,7 +29,7 @@
 <hr>
  
 <pre>
-<img align="right" alt="GIF" height="220px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" />
+<img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif" />
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
@@ -64,7 +64,8 @@
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    
+    <a href="https://github.com/Josenov"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+    <a href="https://github.com/Josenov"><img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
