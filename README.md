@@ -1,9 +1,9 @@
 <div>
-  <a href="https://t.me/owencael" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img
       height="35"
       alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=FFD94D&logoColor=black&labelColor=&style=for-the-badge"
     />
   </a>
   <a href="mailto:MR-Addict@qq.com" target="_blank">
