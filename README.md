@@ -29,7 +29,7 @@
 <hr>
  
 <pre>
-<img align="right" alt="GIF" height="150px" src="https://dribbble.com/shots/4233953-Coffee-Time-Marathon-GIF-12-30" />
+<img align="right" alt="GIF" height="150px" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/media/b3fc29dc60db7150feb98869c1e06bb0.gif" />
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
