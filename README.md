@@ -29,7 +29,7 @@
 <hr>
  
 <pre>
-<img align="right" alt="GIF" height="250px" src="https://cdn.dribbble.com/users/928287/screenshots/4233953/media/b3fc29dc60db7150feb98869c1e06bb0.gif" />
+<img align="right" alt="GIF" height="350px" src="https://cdn-images-1.medium.com/v2/resize:fit:603/1*X33360qSEe-urNS4o9Dd-w.gif" />
 💻 Lorem
 📚 Lorem
 📝 Lorem
