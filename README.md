@@ -34,7 +34,7 @@
     languages and frameworks, and I'm always looking for 
     opportunities to learn and share knowledge.</h3>
     </p>
-    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHjil6waF5giQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685035909960?e=2147483647&v=beta&t=kV8_5sXWD9VcW4T1t0bC269nXdFIt65OQ5jKrLKotrU"   height="450px">
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQHjil6waF5giQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685035909960?e=2147483647&v=beta&t=kV8_5sXWD9VcW4T1t0bC269nXdFIt65OQ5jKrLKotrU"   height="350px">
    
  </div>
 
