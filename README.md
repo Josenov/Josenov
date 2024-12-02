@@ -22,22 +22,21 @@
   </a>
 </div>
 
-<h1 align="center"> Josenov- Web Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h1 align="center"> Josenov- MERN Fullstack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
 
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me</h2>
 <hr>
  
 <pre>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQHjil6waF5giQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685035909960?e=2147483647&v=beta&t=kV8_5sXWD9VcW4T1t0bC269nXdFIt65OQ5jKrLKotrU" align="right" height="250 px">
 
-💻 Lorem
-📚 Lorem
-📝 Lorem
-🔭 Lorem
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: 
+  
+<p>I'm a MERN developer with a strong passion for coding 
+and problem-solving. I love exploring new programming languages 
+and frameworks, and I'm always looking for opportunities to learn
+and share knowledge.</p>
+ 
 </pre>
 <hr>
 
