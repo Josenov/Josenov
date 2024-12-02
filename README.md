@@ -28,7 +28,7 @@
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About Me</h2>
 <hr>
  
-<pre>
+<p>
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQHjil6waF5giQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1685035909960?e=2147483647&v=beta&t=kV8_5sXWD9VcW4T1t0bC269nXdFIt65OQ5jKrLKotrU" align="right" height="250 px">
 
   
@@ -37,7 +37,7 @@ and problem-solving. I love exploring new programming
 languages and frameworks, and I'm always looking for 
 opportunities to learn and share knowledge.</h3>
  
-</pre>
+</p>
 <hr>
 
 ## <h2> <img src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-54-327_512.gif" width="20px"> My Favorite Tools </h2>
